@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Adrian, a senior software engineer based in Europe. I help copamnies around the world design and build modern Python architectures.
+
 <!--
 **amoloce/amoloce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
