@@ -1,6 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 
-I'm Adrian, a senior software engineer based in Europe. I help copamnies around the world design and build modern Python architectures.
+I'm Adrian, a senior software engineer with over 8 years of experience, based in Europe. I help companies around the world design and build modern Python architectures.
+
+![Amoloce's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoloce&show_icons=true&theme=transparent)
 
 <!--
 **amoloce/amoloce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
